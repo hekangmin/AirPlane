@@ -1,0 +1,59 @@
+# Ignore thumbnails created by windows
+Thumbs.db
+
+# Ignore files build by xcode
+*.mode*v*
+*.pbxuser
+*.xcbkptlist
+*.xcscheme
+*.xcworkspacedata
+*.xcuserstate
+xcschememanagement.plist
+.DS_Store
+._.*
+xcuserdata/
+DerivedData/
+*.xccheckout
+
+# Ignore file build by Mono And Unity3D
+/Library/
+/Temp/
+/Obj/
+
+# Ignore UnityVS
+
+/*.DotSettings
+
+/.vs
+
+/Build/Debug
+
+#uIntelliSense
+/Assets/uIntelliSense
+/Assets/uIntelliSense.meta
+
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+
+# 插件
+/Assets/UnityVS
+/Assets/UnityVS.meta
+/Assets/Plugins/Editor/M
+/Assets/Plugins/Editor/M.meta
+/Assets/Plugins/M
+/Assets/Plugins/M.meta
+/Assets/ConsolePro
+/Assets/ConsolePro.meta
+
+# AssetBundles
+/BuildAB
